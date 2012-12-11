@@ -1,12 +1,21 @@
 # encoding: utf-8
+
+require 'mechanize'
 require 'nokogiri'
 require 'open-uri'
 
 module Legco
   module_function
-  LEGCO_BIO_URL = "http://www.legco.gov.hk/general/chinese/members/yr12-16/biographies.htm"
+
   def members
-    doc = Nokogiri::HTML(open(LEGCO_BIO_URL))
+    a = Mechanize.new
+    a.get('http://www.legco.gov.hk/general/chinese/members/index.html') do |page|
+      a.click(page.link_with(:text => %r{議員履歷}))
+    end
+
+    doc = a.page
+    base_url = doc.uri.to_s
+
     doc.search("#_content_ ul table tr td").collect do |node|
       image = node.search("img/@src").first.text rescue nil
       member_node = node.search("strong a").first
@@ -20,8 +29,8 @@ module Legco
       if image && name && url && region
         {
           name: name,
-          image: to_absolute(LEGCO_BIO_URL, image),
-          url: to_absolute(LEGCO_BIO_URL, url),
+          image: to_absolute(base_url, image),
+          url: to_absolute(base_url, url),
           region: region
         }
       else
