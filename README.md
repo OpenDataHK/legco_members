@@ -4,7 +4,7 @@ A script to extract list of LegCo members with their name, photo, constituency a
 
 ## Usage
 
-Use the JSON data in legco_members.json
+Use the JSON data in [legco_members.json](https://raw.github.com/OpenDataHK/legco_members/master/legco_members.json)
 
 ## Do It Yourself
 
