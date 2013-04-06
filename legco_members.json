@@ -9,7 +9,7 @@
     "name": "何俊仁",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/hcy.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/hcy.htm",
-    "region": "區議會"
+    "region": "區議會<第二>"
   },
   {
     "name": "李卓人",
@@ -21,7 +21,7 @@
     "name": "涂謹申",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tks.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tks.htm",
-    "region": "區議會"
+    "region": "區議會<第二>"
   },
   {
     "name": "陳鑑林",
@@ -69,7 +69,7 @@
     "name": "馮檢基",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/fkk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/fkk.htm",
-    "region": "區議會"
+    "region": "區議會<第二>"
   },
   {
     "name": "方剛",
@@ -93,13 +93,13 @@
     "name": "林健鋒",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lkf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lkf.htm",
-    "region": "商界"
+    "region": "商界<第一>"
   },
   {
     "name": "梁君彥",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lky.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lky.htm",
-    "region": "工業界"
+    "region": "工業界<第一>"
   },
   {
     "name": "黃定光",
@@ -123,13 +123,13 @@
     "name": "李慧琼",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lwks.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lwks.htm",
-    "region": "區議會"
+    "region": "區議會<第二>"
   },
   {
     "name": "林大輝",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ltf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ltf.htm",
-    "region": "工業界"
+    "region": "工業界<第二>"
   },
   {
     "name": "陳克勤",
@@ -171,7 +171,7 @@
     "name": "葉國謙",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ikh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ikh.htm",
-    "region": "區議會"
+    "region": "區議會<第一>"
   },
   {
     "name": "葉劉淑儀",
@@ -297,7 +297,7 @@
     "name": "陳婉嫻",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cyh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cyh.htm",
-    "region": "區議會"
+    "region": "區議會<第二>"
   },
   {
     "name": "梁志祥",
@@ -375,7 +375,7 @@
     "name": "廖長江",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lck.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lck.htm",
-    "region": "商界"
+    "region": "商界<第二>"
   },
   {
     "name": "潘兆平",
