@@ -36,10 +36,11 @@ module Legco
       else
       	nil
       end
+
     end.compact
   end
   
   def to_absolute(root, href)
-	URI.parse(root).host+ href
+  	URI.join(root, href).to_s
   end
 end
