@@ -19,6 +19,8 @@ rake
 
 Created by Francis Chong (francis at ignition dot hk)
 
+Updated by Ken Yiu
+
 To the extent possible under law, I waived all copyright and related or neighboring rights to this app.
 
 Made in Hong Kong.

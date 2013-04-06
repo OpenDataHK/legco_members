@@ -15,11 +15,10 @@ module Legco
 
     doc = a.page
     base_url = doc.uri.to_s
-
-    doc.search("#_content_ ul table tr td").collect do |node|
-      image = node.search("img/@src").first.text rescue nil
+    doc.search(".bio-member-info").collect do |node|
+      image = node.search("img/@src").text rescue nil
       member_node = node.search("strong a").first
-      region = node.search("span.size2").text.strip[/\(([^\+\*]+)[\+\*]?\)/, 1] rescue nil
+      region =node.search(".size2").text.strip[1..-3] rescue nil
 
       if member_node
         url = member_node.attribute("href").text
@@ -28,18 +27,20 @@ module Legco
       
       if image && name && url && region
         {
+
           name: name,
           image: to_absolute(base_url, image),
           url: to_absolute(base_url, url),
           region: region
         }
       else
-        nil
+      	nil
       end
+
     end.compact
   end
   
   def to_absolute(root, href)
-     URI.parse(root).merge(URI.parse(href)).to_s
+  	URI.join(root, href).to_s
   end
 end
