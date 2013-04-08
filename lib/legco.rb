@@ -13,6 +13,7 @@ module Legco
       a.click(page.link_with(:text => %r{議員履歷}))
     end
 
+    flag = 1
     doc = a.page
     base_url = doc.uri.to_s
     doc.search(".bio-member-info").collect do |node|
@@ -22,25 +23,65 @@ module Legco
 
       if member_node
         url = member_node.attribute("href").text
-        name = member_node.text.strip[/^(.+)議員.*/, 1] rescue nil
+	    name = member_node.text.strip[/^(.+)議員.*/, 1] rescue nil
       end
-      
+
+      if url
+	    address=nil
+		telephone=nil
+		telephone_1=nil
+		telephone_2=nil
+		fax_1=nil
+		fax_2=nil
+		fax=nil
+		email=nil
+		website=nil
+	    url=to_absolute(base_url, url)
+        page = Nokogiri::HTML(open(url))
+  	    content = page.search("#_content_")
+	    content.search("//table//table//tr").each do |tr|
+		  case tr.search("td[1]").text
+	      when "辦 事 處 地 址"
+		    address = tr.search("td[3]").text.strip
+		  when "辦 事 處 電 話"
+		    telephone = tr.search("td[3]").text.strip.delete(' ')
+			telephone_1 = telephone.partition("/")[0].strip
+			telephone_2 = (telephone.partition("/")[2].strip==""? nil : telephone.partition("/")[2].strip)
+		  when "辦 事 處 傳 真"
+		    fax = tr.search("td[3]").text.strip.delete(' ')
+			fax_1 = fax.partition("/")[0].strip
+			fax_2 = (fax.partition("/")[2].strip==""? nil :
+			fax.partition("/")[2].strip)
+		  when "電　　　　郵"
+		    email = tr.search("td[3]").text.strip
+		  when "網　　　　頁"
+		    website = tr.search("td[3]").text.strip
+	      end
+	    end
+	  end
+
       if image && name && url && region
-        {
-
-          name: name,
-          image: to_absolute(base_url, image),
-          url: to_absolute(base_url, url),
-          region: region
-        }
+      {
+        name: name,
+        image: to_absolute(base_url, image),
+	    url: url,
+        region: region,
+		address: address,
+		telephone_1: telephone_1,
+		telephone_2: telephone_2,
+		fax_1: fax_1,
+		fax_2: fax_2,
+		email: email,
+		website: website
+      }
       else
-      	nil
+        nil
       end
-
     end.compact
   end
-  
+
   def to_absolute(root, href)
-  	URI.join(root, href).to_s
+	URI.join(root, href).to_s
   end
+
 end
