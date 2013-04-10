@@ -26,13 +26,13 @@ module Legco
       end
 
       if url
-        address=nil
-        temp=nil
-        telephone=[nil,nil]
-        fax=[nil,nil]
-        email=nil
-        website=nil
-        url=to_absolute(base_url, url)
+        address = nil
+        temp = nil
+        telephone = []
+        fax = []
+        email = nil
+        website = nil
+        url = to_absolute(base_url, url)
         page = Nokogiri::HTML(open(url))
         content = page.search("#_content_")
         content.search("//table//table//tr").each do |tr|
@@ -40,14 +40,9 @@ module Legco
           when "辦 事 處 地 址"
             address = tr.search("td[3]").text.strip
           when "辦 事 處 電 話"
-            temp = tr.search("td[3]").text.strip.delete(' ')
-            telephone[0] = temp.partition("/")[0].strip
-            telephone[1] = (temp.partition("/")[2].strip==""? nil : temp.partition("/")[2].strip)
+            telephone = tr.search("td[3]").text.strip.split("/").collect {|phone| phone.delete(' ')}
           when "辦 事 處 傳 真"
-            temp = tr.search("td[3]").text.strip.delete(' ')
-            fax[0] = temp.partition("/")[0].strip
-            fax[1] = (temp.partition("/")[2].strip==""? nil :
-                     temp.partition("/")[2].strip)
+            fax = tr.search("td[3]").text.strip.split("/").collect {|fax| fax.delete(' ')}
           when "電　　　　郵"
             email = tr.search("td[3]").text.strip
           when "網　　　　頁"
