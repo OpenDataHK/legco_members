@@ -3,420 +3,1058 @@
     "name": "曾鈺成",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tys.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tys.htm",
-    "region": "香港島"
+    "region": "香港島",
+    "address": "香港中區立法會道1號立法會綜合大樓101室",
+    "telephone": [
+      "39193001"
+    ],
+    "fax": [
+      "21807578"
+    ],
+    "email": "plc@legco.gov.hk",
+    "website": "http://tsangyoksing.blogspot.hk"
   },
   {
     "name": "何俊仁",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/hcy.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/hcy.htm",
-    "region": "區議會<第二>"
+    "region": "區議會<第二>",
+    "address": "香港中環德輔道中28號盤谷銀行7樓",
+    "telephone": [
+      "28682919",
+      "24630399"
+    ],
+    "fax": [
+      "28770561"
+    ],
+    "email": "hotsewai@netvigator.com",
+    "website": "http://www.hochunyan.org.hk"
   },
   {
     "name": "李卓人",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lcy.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lcy.htm",
-    "region": "新界西"
+    "region": "新界西",
+    "address": "香港中區立法會道1號立法會綜合大樓905室",
+    "telephone": [
+      "27409292"
+    ],
+    "fax": [
+      "23323584"
+    ],
+    "email": "yanlee@hkctu.org.hk",
+    "website": "http://www.leecheukyan.org"
   },
   {
     "name": "涂謹申",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tks.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tks.htm",
-    "region": "區議會<第二>"
+    "region": "區議會<第二>",
+    "address": "九龍大角咀洋松街73-79號君豪工商大廈2樓A1室",
+    "telephone": [
+      "27898833",
+      "23191413"
+    ],
+    "fax": [
+      "23916882"
+    ],
+    "email": "jkstolegco@gmail.com",
+    "website": "http://www.tokunsun.org.hk"
   },
   {
     "name": "陳鑑林",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ckl.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ckl.htm",
-    "region": "九龍東"
+    "region": "九龍東",
+    "address": "香港中區立法會道1號立法會綜合大樓614室",
+    "telephone": [
+      "25093207"
+    ],
+    "fax": [
+      "25099955"
+    ],
+    "email": "klclegco@gmail.com",
+    "website": "http://hk.myblog.yahoo.com/kamlamchan2004"
   },
   {
     "name": "梁耀忠",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lyc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lyc.htm",
-    "region": "新界西"
+    "region": "新界西",
+    "address": "新界葵涌葵芳葵仁樓地下7號",
+    "telephone": [
+      "24100360"
+    ],
+    "fax": [
+      "24264618"
+    ],
+    "email": "leungyc5@gmail.com",
+    "website": "http://www.nwsc.org.hk"
   },
   {
     "name": "劉皇發",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lwf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lwf.htm",
-    "region": "鄉議局"
+    "region": "鄉議局",
+    "address": "香港中區立法會道1號立法會綜合大樓711室",
+    "telephone": [
+      "24572822"
+    ],
+    "fax": [
+      "24409017"
+    ],
+    "email": null,
+    "website": null
   },
   {
     "name": "劉慧卿",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lwh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lwh.htm",
-    "region": "新界東"
+    "region": "新界東",
+    "address": "香港中區立法會道1號立法會綜合大樓910室",
+    "telephone": [
+      "26073139"
+    ],
+    "fax": [
+      "28456203"
+    ],
+    "email": "elau@dphk.org",
+    "website": "http://www.emilylau.org.hk"
   },
   {
     "name": "譚耀宗",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tyc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tyc.htm",
-    "region": "新界西"
+    "region": "新界西",
+    "address": "香港中區立法會道1號立法會綜合大樓617室",
+    "telephone": [
+      "25286888"
+    ],
+    "fax": [
+      "25282326"
+    ],
+    "email": "yctam@dab.org.hk",
+    "website": "http://www.yctam.org"
   },
   {
     "name": "石禮謙",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/slh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/slh.htm",
-    "region": "地產及建造界"
+    "region": "地產及建造界",
+    "address": "香港中環皇后大道中48號萬年大廈806室",
+    "telephone": [
+      "25881060"
+    ],
+    "fax": [
+      "25881623"
+    ],
+    "email": "arazack@netvigator.com",
+    "website": null
   },
   {
     "name": "張宇人",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cyy.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cyy.htm",
-    "region": "飲食界"
+    "region": "飲食界",
+    "address": "香港中區立法會道1號立法會綜合大樓818室",
+    "telephone": [
+      "25372410"
+    ],
+    "fax": [
+      "23904487"
+    ],
+    "email": "tyyc@netvigator.com",
+    "website": "http://www.tommycheung.com"
   },
   {
     "name": "馮檢基",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/fkk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/fkk.htm",
-    "region": "區議會<第二>"
+    "region": "區議會<第二>",
+    "address": "九龍彌敦道469號新光商業大廈1104室",
+    "telephone": [
+      "27822699",
+      "25371424"
+    ],
+    "fax": [
+      "27823137",
+      "25371453"
+    ],
+    "email": "info@adpl.org.hk",
+    "website": "http://www.adpl.org.hk"
   },
   {
     "name": "方剛",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/fk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/fk.htm",
-    "region": "批發及零售界"
+    "region": "批發及零售界",
+    "address": "新界葵涌國瑞路45-51號Toppy大樓10樓",
+    "telephone": [
+      "24011801",
+      "24011802"
+    ],
+    "fax": [
+      "24282848"
+    ],
+    "email": "vfang@vincentfang.idv.hk",
+    "website": null
   },
   {
     "name": "王國興",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wkh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wkh.htm",
-    "region": "香港島"
+    "region": "香港島",
+    "address": "香港中區立法會道1號立法會綜合大樓1009-1014室",
+    "telephone": [
+      "25379618"
+    ],
+    "fax": [
+      "25099092"
+    ],
+    "email": "khwong@ftulegco.org.hk",
+    "website": "http://www.ftulegco.org.hk"
   },
   {
     "name": "李國麟",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lklj.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lklj.htm",
-    "region": "衛生服務界"
+    "region": "衛生服務界",
+    "address": "九龍佐敦白加士街25-27號慶雲商業大廈8樓25室",
+    "telephone": [
+      "31682571"
+    ],
+    "fax": [
+      "31682576"
+    ],
+    "email": "info@leekoklong.org.hk",
+    "website": "http://www.leekoklong.org.hk"
   },
   {
     "name": "林健鋒",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lkf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lkf.htm",
-    "region": "商界<第一>"
+    "region": "商界<第一>",
+    "address": "香港中區立法會道1號立法會綜合大樓712室",
+    "telephone": [
+      "25303556"
+    ],
+    "fax": [
+      "28970254"
+    ],
+    "email": "jefflam@fowind.com.hk",
+    "website": "http://www.jeffreykflam.com"
   },
   {
     "name": "梁君彥",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lky.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lky.htm",
-    "region": "工業界<第一>"
+    "region": "工業界<第一>",
+    "address": "新界葵涌青山道547-549號瑞康工業大廈2樓",
+    "telephone": [
+      "24807113"
+    ],
+    "fax": [
+      "24807193"
+    ],
+    "email": "andrewleunglegco@outlook.com",
+    "website": "http://www.andrewkyleung.com"
   },
   {
     "name": "黃定光",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wtk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wtk.htm",
-    "region": "進出口界"
+    "region": "進出口界",
+    "address": "香港中區立法會道1號立法會綜合大樓610室",
+    "telephone": [
+      "28269152"
+    ],
+    "fax": [
+      "28269148"
+    ],
+    "email": "tkwong@dab.org.hk",
+    "website": null
   },
   {
     "name": "湯家驊",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tkw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tkw.htm",
-    "region": "新界東"
+    "region": "新界東",
+    "address": "香港中區立法會道1號立法會綜合大樓810室",
+    "telephone": [
+      "25093132"
+    ],
+    "fax": [
+      "25093101"
+    ],
+    "email": "-",
+    "website": null
   },
   {
     "name": "何秀蘭",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/hsl.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/hsl.htm",
-    "region": "香港島"
+    "region": "香港島",
+    "address": "香港中區立法會道1號立法會綜合大樓903室",
+    "telephone": [
+      "25043733"
+    ],
+    "fax": [
+      "21519011"
+    ],
+    "email": "info@cydho.org.hk",
+    "website": "http://www.cydho.org.hk"
   },
   {
     "name": "李慧琼",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lwks.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lwks.htm",
-    "region": "區議會<第二>"
+    "region": "區議會<第二>",
+    "address": "香港中區立法會道1號立法會綜合大樓602室",
+    "telephone": [
+      "25373507"
+    ],
+    "fax": [
+      "25239201"
+    ],
+    "email": "info@starrylee.com",
+    "website": "http://www.starrylee.com"
   },
   {
     "name": "林大輝",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ltf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ltf.htm",
-    "region": "工業界<第二>"
+    "region": "工業界<第二>",
+    "address": "九龍尖沙咀諾士佛台10號22樓",
+    "telephone": [
+      "27392822"
+    ],
+    "fax": [
+      "23754338"
+    ],
+    "email": "tflam@tflam.com.hk",
+    "website": null
   },
   {
     "name": "陳克勤",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/chk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/chk.htm",
-    "region": "新界東"
+    "region": "新界東",
+    "address": "香港中區立法會道1號立法會綜合大樓609室",
+    "telephone": [
+      "25249191"
+    ],
+    "fax": [
+      "25249119"
+    ],
+    "email": "garychk@dab.org.hk",
+    "website": "http://www.garychk.com"
   },
   {
     "name": "陳健波",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ckp.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ckp.htm",
-    "region": "保險界"
+    "region": "保險界",
+    "address": "香港中區立法會道1號立法會綜合大樓803室",
+    "telephone": [
+      "28992831"
+    ],
+    "fax": [
+      "28992050"
+    ],
+    "email": "kp@kpchan.com",
+    "website": "http://www.kpchan.com"
   },
   {
     "name": "梁美芬",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lmf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lmf.htm",
-    "region": "九龍西"
+    "region": "九龍西",
+    "address": "香港中區立法會道1號立法會綜合大樓706室",
+    "telephone": [
+      "25373518"
+    ],
+    "fax": [
+      "25373516"
+    ],
+    "email": "priscilla@lmf.hk",
+    "website": "http://www.facebook.com/leungmeifun"
   },
   {
     "name": "梁家騮",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lkl.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lkl.htm",
-    "region": "醫學界"
+    "region": "醫學界",
+    "address": "香港中區立法會道1號立法會綜合大樓806室",
+    "telephone": [
+      "25373592"
+    ],
+    "fax": [
+      "30200205"
+    ],
+    "email": "leungkl@leungkl.org",
+    "website": "http://www.leungkl.org"
   },
   {
     "name": "張國柱",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ckc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ckc.htm",
-    "region": "社會福利界"
+    "region": "社會福利界",
+    "address": "香港中區立法會道1號立法會綜合大樓906室",
+    "telephone": [
+      "25373608"
+    ],
+    "fax": [
+      "25233518"
+    ],
+    "email": "info@cheungkwokche.hk",
+    "website": "http://www.cheungkwokche.hk"
   },
   {
     "name": "黃國健",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wkk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wkk.htm",
-    "region": "九龍東"
+    "region": "九龍東",
+    "address": "香港中區立法會道1號立法會綜合大樓1009-1014室",
+    "telephone": [
+      "25379618"
+    ],
+    "fax": [
+      "25099092"
+    ],
+    "email": "kkwong@ftulegco.org.hk",
+    "website": "http://www.ftulegco.org.hk"
   },
   {
     "name": "葉國謙",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ikh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ikh.htm",
-    "region": "區議會<第一>"
+    "region": "區議會<第一>",
+    "address": "香港中區立法會道1號立法會綜合大樓619室",
+    "telephone": [
+      "25373502"
+    ],
+    "fax": [
+      "25379868"
+    ],
+    "email": "ipkh@dab.org.hk",
+    "website": "http://www.ipkwokhim.com"
   },
   {
     "name": "葉劉淑儀",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ilsy.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ilsy.htm",
-    "region": "香港島"
+    "region": "香港島",
+    "address": "香港灣仔軒尼詩道139號中國海外大廈11樓A至B室",
+    "telephone": [
+      "25373267",
+      "21159999"
+    ],
+    "fax": [
+      "28100358"
+    ],
+    "email": "iplau@reginaip.hk",
+    "website": "http://www.reginaip.hk"
   },
   {
     "name": "謝偉俊",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/twc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/twc.htm",
-    "region": "九龍東"
+    "region": "九龍東",
+    "address": "香港中區立法會道1號立法會綜合大樓714室",
+    "telephone": [
+      "25090088"
+    ],
+    "fax": [
+      "25090388"
+    ],
+    "email": "paultse@paultse.org",
+    "website": "http://www.paultse.org"
   },
   {
     "name": "梁家傑",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lkk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lkk.htm",
-    "region": "九龍東"
+    "region": "九龍東",
+    "address": "香港中區立法會道1號立法會綜合大樓811室",
+    "telephone": [
+      "25093100"
+    ],
+    "fax": [
+      "25093101"
+    ],
+    "email": "contact@alanleong.net",
+    "website": "http://www.alanleong.com"
   },
   {
     "name": "梁國雄",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lkh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lkh.htm",
-    "region": "新界東"
+    "region": "新界東",
+    "address": "香港中區立法會道1號立法會綜合大樓1019室",
+    "telephone": [
+      "25370229"
+    ],
+    "fax": [
+      "25370119"
+    ],
+    "email": "longhairlongmarch@yahoo.com.hk",
+    "website": "http://www.longhair.hk"
   },
   {
     "name": "陳偉業",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cwy.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cwy.htm",
-    "region": "新界西"
+    "region": "新界西",
+    "address": "香港中區立法會道1號立法會綜合大樓1002室",
+    "telephone": [
+      "24113107"
+    ],
+    "fax": [
+      "24179985"
+    ],
+    "email": "albert.wychan@yahoo.com.hk",
+    "website": "http://www.chanwaiyip.com"
   },
   {
     "name": "黃毓民",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wym.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wym.htm",
-    "region": "九龍西"
+    "region": "九龍西",
+    "address": "香港中區立法會道1號立法會綜合大樓1001室",
+    "telephone": [
+      "25373150"
+    ],
+    "fax": [
+      "25377053"
+    ],
+    "email": "ymwongopinion@gmail.com",
+    "website": "http://www.yukman.hk"
   },
   {
     "name": "毛孟靜",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/mc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/mc.htm",
-    "region": "九龍西"
+    "region": "九龍西",
+    "address": "香港中區立法會道1號立法會綜合大樓809室",
+    "telephone": [
+      "28561336"
+    ],
+    "fax": [
+      "27158020"
+    ],
+    "email": "contact@msmo.hk",
+    "website": null
   },
   {
     "name": "田北辰",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tps.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tps.htm",
-    "region": "新界西"
+    "region": "新界西",
+    "address": "新界葵涌大連排道200號偉倫中心2期29樓",
+    "telephone": [
+      "24943828"
+    ],
+    "fax": [
+      "39791777"
+    ],
+    "email": "legco@michaeltien.hk",
+    "website": "http://www.michaeltien.hk"
   },
   {
     "name": "田北俊",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tpc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tpc.htm",
-    "region": "新界東"
+    "region": "新界東",
+    "address": "香港中區立法會道1號立法會綜合大樓819室",
+    "telephone": [
+      "25980001"
+    ],
+    "fax": [
+      "23685292"
+    ],
+    "email": "tpc@jamestien.com",
+    "website": "http://www.jamestien.com"
   },
   {
     "name": "吳亮星",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/nls.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/nls.htm",
-    "region": "金融界"
+    "region": "金融界",
+    "address": "香港中區立法會道1號立法會綜合大樓704室",
+    "telephone": [
+      "23195166"
+    ],
+    "fax": [
+      "23195133"
+    ],
+    "email": "lsngoffice2012@gmail.com",
+    "website": null
   },
   {
     "name": "何俊賢",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/hcys.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/hcys.htm",
-    "region": "漁農界"
+    "region": "漁農界",
+    "address": "香港中區立法會道1號立法會綜合大樓611室",
+    "telephone": [
+      "26820155"
+    ],
+    "fax": [
+      "26820159"
+    ],
+    "email": "honstevenho@gmail.com",
+    "website": null
   },
   {
     "name": "易志明",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ycm.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ycm.htm",
-    "region": "航運交通界"
+    "region": "航運交通界",
+    "address": "香港中區立法會道1號立法會綜合大樓717室",
+    "telephone": [
+      "25372442"
+    ],
+    "fax": [
+      "25309167"
+    ],
+    "email": "frankieyick@liberal.org.hk",
+    "website": null
   },
   {
     "name": "胡志偉",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wcw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wcw.htm",
-    "region": "九龍東"
+    "region": "九龍東",
+    "address": "九龍黃大仙蒲崗村道61-87號\r\n富佑大廈12-24號地鋪",
+    "telephone": [
+      "27613206"
+    ],
+    "fax": [
+      "27613021"
+    ],
+    "email": "chiwaioffice@gmail.com",
+    "website": null
   },
   {
     "name": "姚思榮",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ysw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ysw.htm",
-    "region": "旅遊界"
+    "region": "旅遊界",
+    "address": "香港中區立法會道1號立法會綜合大樓719室",
+    "telephone": [
+      "22970633"
+    ],
+    "fax": [
+      "22970832"
+    ],
+    "email": "ysw@yiusiwing.com",
+    "website": "http://www.yiusiwing.com"
   },
   {
     "name": "范國威",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/fkw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/fkw.htm",
-    "region": "新界東"
+    "region": "新界東",
+    "address": "香港中區立法會道1號立法會綜合大樓1018室",
+    "telephone": [
+      "25720255"
+    ],
+    "fax": [
+      "26708873"
+    ],
+    "email": "fankwokwaioffice@gmail.com",
+    "website": "http://www.garyfan.org"
   },
   {
     "name": "馬逢國",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/mfk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/mfk.htm",
-    "region": "體育、演藝、文化及出版界"
+    "region": "體育、演藝、文化及出版界",
+    "address": "香港中區立法會道1號立法會綜合大樓713室",
+    "telephone": [
+      "26684101"
+    ],
+    "fax": [
+      "23650718"
+    ],
+    "email": "fkmaoffice@gmail.com",
+    "website": null
   },
   {
     "name": "莫乃光",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/mcp.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/mcp.htm",
-    "region": "資訊科技界"
+    "region": "資訊科技界",
+    "address": "香港中區立法會道1號立法會綜合大樓917室",
+    "telephone": [
+      "23523129"
+    ],
+    "fax": [
+      "30209867"
+    ],
+    "email": "charlesmok @charlesmok.hk",
+    "website": "http://www.charlesmok.hk"
   },
   {
     "name": "陳志全",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ccc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ccc.htm",
-    "region": "新界東"
+    "region": "新界東",
+    "address": "香港中區立法會道1號立法會綜合大樓1003室",
+    "telephone": [
+      "25439500"
+    ],
+    "fax": [
+      "25439510"
+    ],
+    "email": "slowbeat@gmail.com",
+    "website": null
   },
   {
     "name": "陳恒鑌",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/chp.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/chp.htm",
-    "region": "新界西"
+    "region": "新界西",
+    "address": "香港中區立法會道1號立法會綜合大樓613室",
+    "telephone": [
+      "25222202"
+    ],
+    "fax": [
+      "25221116"
+    ],
+    "email": "benchanlegco@gmail.com",
+    "website": "http://www.benchan.hk"
   },
   {
     "name": "陳家洛",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cklk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cklk.htm",
-    "region": "香港島"
+    "region": "香港島",
+    "address": "香港中區立法會道1號立法會綜合大樓814室",
+    "telephone": [
+      "25216292"
+    ],
+    "fax": [
+      "25218660"
+    ],
+    "email": "info@chankalok.hk",
+    "website": "http://www.chankalok.hk"
   },
   {
     "name": "陳婉嫻",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cyh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cyh.htm",
-    "region": "區議會<第二>"
+    "region": "區議會<第二>",
+    "address": "香港中區立法會道1號立法會綜合大樓1009-1014室",
+    "telephone": [
+      "25379618"
+    ],
+    "fax": [
+      "25099092"
+    ],
+    "email": "yhchan@ftulegco.org.hk",
+    "website": null
   },
   {
     "name": "梁志祥",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lcc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lcc.htm",
-    "region": "新界西"
+    "region": "新界西",
+    "address": "香港中區立法會道1號立法會綜合大樓603室",
+    "telephone": [
+      "26685251"
+    ],
+    "fax": [
+      "26685261"
+    ],
+    "email": "lcc.ntw@dab.org.hk",
+    "website": null
   },
   {
     "name": "梁繼昌",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lk.htm",
-    "region": "會計界"
+    "region": "會計界",
+    "address": "香港中區立法會道1號立法會綜合大樓918室",
+    "telephone": [
+      "23523209"
+    ],
+    "fax": [
+      "30209849"
+    ],
+    "email": "info@kennethleung.hk",
+    "website": "http://www.kennethleung.hk"
   },
   {
     "name": "麥美娟",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/mmk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/mmk.htm",
-    "region": "新界西"
+    "region": "新界西",
+    "address": "香港中區立法會道1號立法會綜合大樓1009-1014室",
+    "telephone": [
+      "25379618"
+    ],
+    "fax": [
+      "25099092"
+    ],
+    "email": "amlegco@gmail.com",
+    "website": null
   },
   {
     "name": "郭家麒",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/kkk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/kkk.htm",
-    "region": "新界西"
+    "region": "新界西",
+    "address": "香港中區立法會道1號立法會綜合大樓812室",
+    "telephone": [
+      "26776877"
+    ],
+    "fax": [
+      "26776876"
+    ],
+    "email": "kkk@kkkwok.hk",
+    "website": "http://www.kkkwok.hk"
   },
   {
     "name": "郭偉強",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/kwk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/kwk.htm",
-    "region": "勞工界"
+    "region": "勞工界",
+    "address": "香港中區立法會道1號立法會綜合大樓1010室",
+    "telephone": [
+      "25379618"
+    ],
+    "fax": [
+      "25099092"
+    ],
+    "email": "kwk@ftulegco.org.hk",
+    "website": null
   },
   {
     "name": "郭榮鏗",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/kd.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/kd.htm",
-    "region": "法律界"
+    "region": "法律界",
+    "address": "香港中區立法會道1號立法會綜合大樓813室",
+    "telephone": [
+      "22435508"
+    ],
+    "fax": [
+      "22435509"
+    ],
+    "email": "-",
+    "website": null
   },
   {
     "name": "張華峰",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cwf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cwf.htm",
-    "region": "金融服務界"
+    "region": "金融服務界",
+    "address": "香港中區立法會道1號立法會綜合大樓705室",
+    "telephone": [
+      "28868248"
+    ],
+    "fax": [
+      "28868730"
+    ],
+    "email": "chrischeungwf@gmail.com",
+    "website": null
   },
   {
     "name": "張超雄",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cch.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cch.htm",
-    "region": "新界東"
+    "region": "新界東",
+    "address": "香港中區立法會道1號立法會綜合大樓1017室",
+    "telephone": [
+      "26139200"
+    ],
+    "fax": [
+      "27997290"
+    ],
+    "email": "info@cheungchiuhung.org.hk",
+    "website": "http://www.cheungchiuhung.org.hk"
   },
   {
     "name": "單仲偕",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/sck.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/sck.htm",
-    "region": "香港島"
+    "region": "香港島",
+    "address": "香港中區立法會道1號立法會綜合大樓913室",
+    "telephone": [
+      "25372315"
+    ],
+    "fax": [
+      "25374874"
+    ],
+    "email": "cksin@dphk.org",
+    "website": "http://www.sinchungkai.org.hk"
   },
   {
     "name": "黃碧雲",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wpw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wpw.htm",
-    "region": "九龍西"
+    "region": "九龍西",
+    "address": "香港中區立法會道1號立法會綜合大樓912室",
+    "telephone": [
+      "25372122"
+    ],
+    "fax": [
+      "25374874"
+    ],
+    "email": "helenawong@dphk.org",
+    "website": "http://www.wongpikwan.hk"
   },
   {
     "name": "葉建源",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/iky.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/iky.htm",
-    "region": "教育界"
+    "region": "教育界",
+    "address": "九龍旺角山東街51號中僑商業大廈7樓",
+    "telephone": [
+      "27807337"
+    ],
+    "fax": [
+      "27718752"
+    ],
+    "email": "ikyoffice@hkptu.org",
+    "website": "http://www.facebook.com/ipkinyuen"
   },
   {
     "name": "葛珮帆",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/qe.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/qe.htm",
-    "region": "新界東"
+    "region": "新界東",
+    "address": "香港中區立法會道1號立法會綜合大樓606室",
+    "telephone": [
+      "28339932"
+    ],
+    "fax": [
+      "28339132"
+    ],
+    "email": "eq@eqweb.hk",
+    "website": "http://www.eqweb.hk"
   },
   {
     "name": "廖長江",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lck.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lck.htm",
-    "region": "商界<第二>"
+    "region": "商界<第二>",
+    "address": "香港中區立法會道1號立法會綜合大樓703室",
+    "telephone": [
+      "25767121"
+    ],
+    "fax": [
+      "27988802"
+    ],
+    "email": "legco.office.liao@gmail.com",
+    "website": null
   },
   {
     "name": "潘兆平",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/psp.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/psp.htm",
-    "region": "勞工界"
+    "region": "勞工界",
+    "address": "九龍旺角砵蘭街450 - 454號炳富商業大廈9樓C室",
+    "telephone": [
+      "27879166"
+    ],
+    "fax": [
+      "27872061"
+    ],
+    "email": "poonsiuping@hkflu.org.hk",
+    "website": "http://poonsiuping.hkflu.org.hk"
   },
   {
     "name": "鄧家彪",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tkp.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tkp.htm",
-    "region": "勞工界"
+    "region": "勞工界",
+    "address": "香港中區立法會道1號立法會綜合大樓1009-1014室",
+    "telephone": [
+      "25379618"
+    ],
+    "fax": [
+      "25099092"
+    ],
+    "email": null,
+    "website": null
   },
   {
     "name": "蔣麗芸",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/clw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/clw.htm",
-    "region": "九龍西"
+    "region": "九龍西",
+    "address": "香港中區立法會道1號立法會綜合大樓605室",
+    "telephone": [
+      "25396111"
+    ],
+    "fax": [
+      "25372514"
+    ],
+    "email": "chianglaiwan@gmail.com",
+    "website": null
   },
   {
     "name": "盧偉國",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lwk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lwk.htm",
-    "region": "工程界"
+    "region": "工程界",
+    "address": "香港中區立法會道1號立法會綜合大樓709室",
+    "telephone": [
+      "25390610"
+    ],
+    "fax": [
+      "25390621"
+    ],
+    "email": "wklo@engineer.com",
+    "website": null
   },
   {
     "name": "鍾國斌",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ckpf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ckpf.htm",
-    "region": "紡織及製衣界"
+    "region": "紡織及製衣界",
+    "address": "香港中區立法會道1號立法會綜合大樓718室",
+    "telephone": [
+      "28136156",
+      "27991777"
+    ],
+    "fax": [
+      "28136150",
+      "27992868"
+    ],
+    "email": "info@felixchunghk.com",
+    "website": "http://www.felixchunghk.com"
   },
   {
     "name": "鍾樹根",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/csk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/csk.htm",
-    "region": "香港島"
+    "region": "香港島",
+    "address": "香港中區立法會道1號立法會綜合大樓612室",
+    "telephone": [
+      "25228291"
+    ],
+    "fax": [
+      "30033094"
+    ],
+    "email": "office@chungsk.com",
+    "website": "http://www.chungsk.org"
   },
   {
     "name": "謝偉銓",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/twct.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/twct.htm",
-    "region": "建築、測量及都市規劃界"
+    "region": "建築、測量及都市規劃界",
+    "address": "香港中區立法會道1號立法會綜合大樓802室",
+    "telephone": [
+      "28805622"
+    ],
+    "fax": [
+      "28805128"
+    ],
+    "email": "info@tonytsewaichuen.com",
+    "website": "http://www.tonytsewaichuen.com"
   }
 ]
