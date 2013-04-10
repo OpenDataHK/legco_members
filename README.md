@@ -1,6 +1,15 @@
 # Hong Kong LegCo members list
 
-A script to extract list of LegCo members with their name, photo, constituency and URL to their biographies.
+A script to extract list of LegCo members with their infomation, includes:
+- name
+- profile picture URL
+- constituency
+- URL to their biographies.
+- Office Address
+- Office Telephone Number(s)
+- Office Fax Number(s)
+- Email Address
+- Website Address
 
 ## Usage
 

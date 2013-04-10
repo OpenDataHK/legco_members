@@ -24,23 +24,53 @@ module Legco
         url = member_node.attribute("href").text
         name = member_node.text.strip[/^(.+)議員.*/, 1] rescue nil
       end
-      
-      if image && name && url && region
-        {
 
-          name: name,
-          image: to_absolute(base_url, image),
-          url: to_absolute(base_url, url),
-          region: region
-        }
-      else
-      	nil
+      if url
+        address = nil
+        temp = nil
+        telephone = []
+        fax = []
+        email = nil
+        website = nil
+        url = to_absolute(base_url, url)
+        page = Nokogiri::HTML(open(url))
+        content = page.search("#_content_")
+        content.search("//table//table//tr").each do |tr|
+          case tr.search("td[1]").text
+          when "辦 事 處 地 址"
+            address = tr.search("td[3]").text.strip
+          when "辦 事 處 電 話"
+            telephone = tr.search("td[3]").text.strip.split("/").collect {|phone| phone.delete(' ')}
+          when "辦 事 處 傳 真"
+            fax = tr.search("td[3]").text.strip.split("/").collect {|fax| fax.delete(' ')}
+          when "電　　　　郵"
+            email = tr.search("td[3]").text.strip
+          when "網　　　　頁"
+            website = tr.search("td[3]").text.strip
+          end
+        end
       end
 
+      if image && name && url && region
+        {
+          name: name,
+          image: to_absolute(base_url, image),
+          url: url,
+          region: region,
+          address: address,
+          telephone: telephone,
+          fax: fax,
+          email: email,
+          website: website
+        }
+      else
+        nil
+      end
     end.compact
   end
-  
+
   def to_absolute(root, href)
-  	URI.join(root, href).to_s
+    URI.join(root, href).to_s
   end
+
 end
