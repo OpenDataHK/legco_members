@@ -3,7 +3,7 @@
     "name": "曾鈺成",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tys.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tys.htm",
-    "region": "香港島",
+    "constituency": "香港島",
     "address": "香港中區立法會道1號立法會綜合大樓101室",
     "telephone": [
       "39193001"
@@ -18,7 +18,7 @@
     "name": "何俊仁",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/hcy.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/hcy.htm",
-    "region": "區議會<第二>",
+    "constituency": "區議會<第二>",
     "address": "香港中環德輔道中28號盤谷銀行7樓",
     "telephone": [
       "28682919",
@@ -34,7 +34,7 @@
     "name": "李卓人",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lcy.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lcy.htm",
-    "region": "新界西",
+    "constituency": "新界西",
     "address": "香港中區立法會道1號立法會綜合大樓905室",
     "telephone": [
       "27409292"
@@ -49,7 +49,7 @@
     "name": "涂謹申",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tks.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tks.htm",
-    "region": "區議會<第二>",
+    "constituency": "區議會<第二>",
     "address": "九龍大角咀洋松街73-79號君豪工商大廈2樓A1室",
     "telephone": [
       "27898833",
@@ -65,7 +65,7 @@
     "name": "陳鑑林",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ckl.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ckl.htm",
-    "region": "九龍東",
+    "constituency": "九龍東",
     "address": "香港中區立法會道1號立法會綜合大樓614室",
     "telephone": [
       "25093207"
@@ -80,7 +80,7 @@
     "name": "梁耀忠",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lyc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lyc.htm",
-    "region": "新界西",
+    "constituency": "新界西",
     "address": "新界葵涌葵芳葵仁樓地下7號",
     "telephone": [
       "24100360"
@@ -95,7 +95,7 @@
     "name": "劉皇發",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lwf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lwf.htm",
-    "region": "鄉議局",
+    "constituency": "鄉議局",
     "address": "香港中區立法會道1號立法會綜合大樓711室",
     "telephone": [
       "24572822"
@@ -110,7 +110,7 @@
     "name": "劉慧卿",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lwh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lwh.htm",
-    "region": "新界東",
+    "constituency": "新界東",
     "address": "香港中區立法會道1號立法會綜合大樓910室",
     "telephone": [
       "26073139"
@@ -125,7 +125,7 @@
     "name": "譚耀宗",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tyc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tyc.htm",
-    "region": "新界西",
+    "constituency": "新界西",
     "address": "香港中區立法會道1號立法會綜合大樓617室",
     "telephone": [
       "25286888"
@@ -140,7 +140,7 @@
     "name": "石禮謙",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/slh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/slh.htm",
-    "region": "地產及建造界",
+    "constituency": "地產及建造界",
     "address": "香港中環皇后大道中48號萬年大廈806室",
     "telephone": [
       "25881060"
@@ -155,7 +155,7 @@
     "name": "張宇人",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cyy.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cyy.htm",
-    "region": "飲食界",
+    "constituency": "飲食界",
     "address": "香港中區立法會道1號立法會綜合大樓818室",
     "telephone": [
       "25372410"
@@ -170,7 +170,7 @@
     "name": "馮檢基",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/fkk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/fkk.htm",
-    "region": "區議會<第二>",
+    "constituency": "區議會<第二>",
     "address": "九龍彌敦道469號新光商業大廈1104室",
     "telephone": [
       "27822699",
@@ -187,7 +187,7 @@
     "name": "方剛",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/fk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/fk.htm",
-    "region": "批發及零售界",
+    "constituency": "批發及零售界",
     "address": "新界葵涌國瑞路45-51號Toppy大樓10樓",
     "telephone": [
       "24011801",
@@ -203,7 +203,7 @@
     "name": "王國興",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wkh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wkh.htm",
-    "region": "香港島",
+    "constituency": "香港島",
     "address": "香港中區立法會道1號立法會綜合大樓1009-1014室",
     "telephone": [
       "25379618"
@@ -218,7 +218,7 @@
     "name": "李國麟",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lklj.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lklj.htm",
-    "region": "衛生服務界",
+    "constituency": "衛生服務界",
     "address": "九龍佐敦白加士街25-27號慶雲商業大廈8樓25室",
     "telephone": [
       "31682571"
@@ -233,7 +233,7 @@
     "name": "林健鋒",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lkf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lkf.htm",
-    "region": "商界<第一>",
+    "constituency": "商界<第一>",
     "address": "香港中區立法會道1號立法會綜合大樓712室",
     "telephone": [
       "25303556"
@@ -248,7 +248,7 @@
     "name": "梁君彥",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lky.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lky.htm",
-    "region": "工業界<第一>",
+    "constituency": "工業界<第一>",
     "address": "新界葵涌青山道547-549號瑞康工業大廈2樓",
     "telephone": [
       "24807113"
@@ -263,7 +263,7 @@
     "name": "黃定光",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wtk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wtk.htm",
-    "region": "進出口界",
+    "constituency": "進出口界",
     "address": "香港中區立法會道1號立法會綜合大樓610室",
     "telephone": [
       "28269152"
@@ -278,7 +278,7 @@
     "name": "湯家驊",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tkw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tkw.htm",
-    "region": "新界東",
+    "constituency": "新界東",
     "address": "香港中區立法會道1號立法會綜合大樓810室",
     "telephone": [
       "25093132"
@@ -293,7 +293,7 @@
     "name": "何秀蘭",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/hsl.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/hsl.htm",
-    "region": "香港島",
+    "constituency": "香港島",
     "address": "香港中區立法會道1號立法會綜合大樓903室",
     "telephone": [
       "25043733"
@@ -308,7 +308,7 @@
     "name": "李慧琼",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lwks.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lwks.htm",
-    "region": "區議會<第二>",
+    "constituency": "區議會<第二>",
     "address": "香港中區立法會道1號立法會綜合大樓602室",
     "telephone": [
       "25373507"
@@ -323,7 +323,7 @@
     "name": "林大輝",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ltf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ltf.htm",
-    "region": "工業界<第二>",
+    "constituency": "工業界<第二>",
     "address": "九龍尖沙咀諾士佛台10號22樓",
     "telephone": [
       "27392822"
@@ -338,7 +338,7 @@
     "name": "陳克勤",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/chk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/chk.htm",
-    "region": "新界東",
+    "constituency": "新界東",
     "address": "香港中區立法會道1號立法會綜合大樓609室",
     "telephone": [
       "25249191"
@@ -353,7 +353,7 @@
     "name": "陳健波",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ckp.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ckp.htm",
-    "region": "保險界",
+    "constituency": "保險界",
     "address": "香港中區立法會道1號立法會綜合大樓803室",
     "telephone": [
       "28992831"
@@ -368,7 +368,7 @@
     "name": "梁美芬",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lmf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lmf.htm",
-    "region": "九龍西",
+    "constituency": "九龍西",
     "address": "香港中區立法會道1號立法會綜合大樓706室",
     "telephone": [
       "25373518"
@@ -383,7 +383,7 @@
     "name": "梁家騮",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lkl.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lkl.htm",
-    "region": "醫學界",
+    "constituency": "醫學界",
     "address": "香港中區立法會道1號立法會綜合大樓806室",
     "telephone": [
       "25373592"
@@ -398,7 +398,7 @@
     "name": "張國柱",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ckc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ckc.htm",
-    "region": "社會福利界",
+    "constituency": "社會福利界",
     "address": "香港中區立法會道1號立法會綜合大樓906室",
     "telephone": [
       "25373608"
@@ -413,7 +413,7 @@
     "name": "黃國健",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wkk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wkk.htm",
-    "region": "九龍東",
+    "constituency": "九龍東",
     "address": "香港中區立法會道1號立法會綜合大樓1009-1014室",
     "telephone": [
       "25379618"
@@ -428,7 +428,7 @@
     "name": "葉國謙",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ikh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ikh.htm",
-    "region": "區議會<第一>",
+    "constituency": "區議會<第一>",
     "address": "香港中區立法會道1號立法會綜合大樓619室",
     "telephone": [
       "25373502"
@@ -443,7 +443,7 @@
     "name": "葉劉淑儀",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ilsy.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ilsy.htm",
-    "region": "香港島",
+    "constituency": "香港島",
     "address": "香港灣仔軒尼詩道139號中國海外大廈11樓A至B室",
     "telephone": [
       "25373267",
@@ -459,7 +459,7 @@
     "name": "謝偉俊",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/twc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/twc.htm",
-    "region": "九龍東",
+    "constituency": "九龍東",
     "address": "香港中區立法會道1號立法會綜合大樓714室",
     "telephone": [
       "25090088"
@@ -474,7 +474,7 @@
     "name": "梁家傑",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lkk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lkk.htm",
-    "region": "九龍東",
+    "constituency": "九龍東",
     "address": "香港中區立法會道1號立法會綜合大樓811室",
     "telephone": [
       "25093100"
@@ -489,7 +489,7 @@
     "name": "梁國雄",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lkh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lkh.htm",
-    "region": "新界東",
+    "constituency": "新界東",
     "address": "香港中區立法會道1號立法會綜合大樓1019室",
     "telephone": [
       "25370229"
@@ -504,7 +504,7 @@
     "name": "陳偉業",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cwy.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cwy.htm",
-    "region": "新界西",
+    "constituency": "新界西",
     "address": "香港中區立法會道1號立法會綜合大樓1002室",
     "telephone": [
       "24113107"
@@ -519,7 +519,7 @@
     "name": "黃毓民",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wym.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wym.htm",
-    "region": "九龍西",
+    "constituency": "九龍西",
     "address": "香港中區立法會道1號立法會綜合大樓1001室",
     "telephone": [
       "25373150"
@@ -534,7 +534,7 @@
     "name": "毛孟靜",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/mc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/mc.htm",
-    "region": "九龍西",
+    "constituency": "九龍西",
     "address": "香港中區立法會道1號立法會綜合大樓809室",
     "telephone": [
       "28561336"
@@ -549,7 +549,7 @@
     "name": "田北辰",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tps.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tps.htm",
-    "region": "新界西",
+    "constituency": "新界西",
     "address": "新界葵涌大連排道200號偉倫中心2期29樓",
     "telephone": [
       "24943828"
@@ -564,7 +564,7 @@
     "name": "田北俊",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tpc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tpc.htm",
-    "region": "新界東",
+    "constituency": "新界東",
     "address": "香港中區立法會道1號立法會綜合大樓819室",
     "telephone": [
       "25980001"
@@ -579,7 +579,7 @@
     "name": "吳亮星",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/nls.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/nls.htm",
-    "region": "金融界",
+    "constituency": "金融界",
     "address": "香港中區立法會道1號立法會綜合大樓704室",
     "telephone": [
       "23195166"
@@ -594,7 +594,7 @@
     "name": "何俊賢",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/hcys.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/hcys.htm",
-    "region": "漁農界",
+    "constituency": "漁農界",
     "address": "香港中區立法會道1號立法會綜合大樓611室",
     "telephone": [
       "26820155"
@@ -609,7 +609,7 @@
     "name": "易志明",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ycm.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ycm.htm",
-    "region": "航運交通界",
+    "constituency": "航運交通界",
     "address": "香港中區立法會道1號立法會綜合大樓717室",
     "telephone": [
       "25372442"
@@ -624,7 +624,7 @@
     "name": "胡志偉",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wcw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wcw.htm",
-    "region": "九龍東",
+    "constituency": "九龍東",
     "address": "九龍黃大仙蒲崗村道61-87號\r\n富佑大廈12-24號地鋪",
     "telephone": [
       "27613206"
@@ -639,7 +639,7 @@
     "name": "姚思榮",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ysw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ysw.htm",
-    "region": "旅遊界",
+    "constituency": "旅遊界",
     "address": "香港中區立法會道1號立法會綜合大樓719室",
     "telephone": [
       "22970633"
@@ -654,7 +654,7 @@
     "name": "范國威",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/fkw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/fkw.htm",
-    "region": "新界東",
+    "constituency": "新界東",
     "address": "香港中區立法會道1號立法會綜合大樓1018室",
     "telephone": [
       "25720255"
@@ -669,7 +669,7 @@
     "name": "馬逢國",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/mfk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/mfk.htm",
-    "region": "體育、演藝、文化及出版界",
+    "constituency": "體育、演藝、文化及出版界",
     "address": "香港中區立法會道1號立法會綜合大樓713室",
     "telephone": [
       "26684101"
@@ -684,7 +684,7 @@
     "name": "莫乃光",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/mcp.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/mcp.htm",
-    "region": "資訊科技界",
+    "constituency": "資訊科技界",
     "address": "香港中區立法會道1號立法會綜合大樓917室",
     "telephone": [
       "23523129"
@@ -699,7 +699,7 @@
     "name": "陳志全",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ccc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ccc.htm",
-    "region": "新界東",
+    "constituency": "新界東",
     "address": "香港中區立法會道1號立法會綜合大樓1003室",
     "telephone": [
       "25439500"
@@ -714,7 +714,7 @@
     "name": "陳恒鑌",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/chp.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/chp.htm",
-    "region": "新界西",
+    "constituency": "新界西",
     "address": "香港中區立法會道1號立法會綜合大樓613室",
     "telephone": [
       "25222202"
@@ -729,7 +729,7 @@
     "name": "陳家洛",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cklk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cklk.htm",
-    "region": "香港島",
+    "constituency": "香港島",
     "address": "香港中區立法會道1號立法會綜合大樓814室",
     "telephone": [
       "25216292"
@@ -744,7 +744,7 @@
     "name": "陳婉嫻",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cyh.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cyh.htm",
-    "region": "區議會<第二>",
+    "constituency": "區議會<第二>",
     "address": "香港中區立法會道1號立法會綜合大樓1009-1014室",
     "telephone": [
       "25379618"
@@ -759,7 +759,7 @@
     "name": "梁志祥",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lcc.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lcc.htm",
-    "region": "新界西",
+    "constituency": "新界西",
     "address": "香港中區立法會道1號立法會綜合大樓603室",
     "telephone": [
       "26685251"
@@ -774,7 +774,7 @@
     "name": "梁繼昌",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lk.htm",
-    "region": "會計界",
+    "constituency": "會計界",
     "address": "香港中區立法會道1號立法會綜合大樓918室",
     "telephone": [
       "23523209"
@@ -789,7 +789,7 @@
     "name": "麥美娟",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/mmk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/mmk.htm",
-    "region": "新界西",
+    "constituency": "新界西",
     "address": "香港中區立法會道1號立法會綜合大樓1009-1014室",
     "telephone": [
       "25379618"
@@ -804,7 +804,7 @@
     "name": "郭家麒",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/kkk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/kkk.htm",
-    "region": "新界西",
+    "constituency": "新界西",
     "address": "香港中區立法會道1號立法會綜合大樓812室",
     "telephone": [
       "26776877"
@@ -819,7 +819,7 @@
     "name": "郭偉強",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/kwk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/kwk.htm",
-    "region": "勞工界",
+    "constituency": "勞工界",
     "address": "香港中區立法會道1號立法會綜合大樓1010室",
     "telephone": [
       "25379618"
@@ -834,7 +834,7 @@
     "name": "郭榮鏗",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/kd.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/kd.htm",
-    "region": "法律界",
+    "constituency": "法律界",
     "address": "香港中區立法會道1號立法會綜合大樓813室",
     "telephone": [
       "22435508"
@@ -849,7 +849,7 @@
     "name": "張華峰",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cwf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cwf.htm",
-    "region": "金融服務界",
+    "constituency": "金融服務界",
     "address": "香港中區立法會道1號立法會綜合大樓705室",
     "telephone": [
       "28868248"
@@ -864,7 +864,7 @@
     "name": "張超雄",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/cch.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/cch.htm",
-    "region": "新界東",
+    "constituency": "新界東",
     "address": "香港中區立法會道1號立法會綜合大樓1017室",
     "telephone": [
       "26139200"
@@ -879,7 +879,7 @@
     "name": "單仲偕",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/sck.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/sck.htm",
-    "region": "香港島",
+    "constituency": "香港島",
     "address": "香港中區立法會道1號立法會綜合大樓913室",
     "telephone": [
       "25372315"
@@ -894,7 +894,7 @@
     "name": "黃碧雲",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/wpw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/wpw.htm",
-    "region": "九龍西",
+    "constituency": "九龍西",
     "address": "香港中區立法會道1號立法會綜合大樓912室",
     "telephone": [
       "25372122"
@@ -909,7 +909,7 @@
     "name": "葉建源",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/iky.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/iky.htm",
-    "region": "教育界",
+    "constituency": "教育界",
     "address": "九龍旺角山東街51號中僑商業大廈7樓",
     "telephone": [
       "27807337"
@@ -924,7 +924,7 @@
     "name": "葛珮帆",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/qe.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/qe.htm",
-    "region": "新界東",
+    "constituency": "新界東",
     "address": "香港中區立法會道1號立法會綜合大樓606室",
     "telephone": [
       "28339932"
@@ -939,7 +939,7 @@
     "name": "廖長江",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lck.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lck.htm",
-    "region": "商界<第二>",
+    "constituency": "商界<第二>",
     "address": "香港中區立法會道1號立法會綜合大樓703室",
     "telephone": [
       "25767121"
@@ -954,7 +954,7 @@
     "name": "潘兆平",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/psp.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/psp.htm",
-    "region": "勞工界",
+    "constituency": "勞工界",
     "address": "九龍旺角砵蘭街450 - 454號炳富商業大廈9樓C室",
     "telephone": [
       "27879166"
@@ -969,7 +969,7 @@
     "name": "鄧家彪",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/tkp.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/tkp.htm",
-    "region": "勞工界",
+    "constituency": "勞工界",
     "address": "香港中區立法會道1號立法會綜合大樓1009-1014室",
     "telephone": [
       "25379618"
@@ -984,7 +984,7 @@
     "name": "蔣麗芸",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/clw.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/clw.htm",
-    "region": "九龍西",
+    "constituency": "九龍西",
     "address": "香港中區立法會道1號立法會綜合大樓605室",
     "telephone": [
       "25396111"
@@ -999,7 +999,7 @@
     "name": "盧偉國",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/lwk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/lwk.htm",
-    "region": "工程界",
+    "constituency": "工程界",
     "address": "香港中區立法會道1號立法會綜合大樓709室",
     "telephone": [
       "25390610"
@@ -1014,7 +1014,7 @@
     "name": "鍾國斌",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/ckpf.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/ckpf.htm",
-    "region": "紡織及製衣界",
+    "constituency": "紡織及製衣界",
     "address": "香港中區立法會道1號立法會綜合大樓718室",
     "telephone": [
       "28136156",
@@ -1031,7 +1031,7 @@
     "name": "鍾樹根",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/csk.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/csk.htm",
-    "region": "香港島",
+    "constituency": "香港島",
     "address": "香港中區立法會道1號立法會綜合大樓612室",
     "telephone": [
       "25228291"
@@ -1046,7 +1046,7 @@
     "name": "謝偉銓",
     "image": "http://www.legco.gov.hk/images/mem_small_1216/twct.jpg",
     "url": "http://www.legco.gov.hk/general/chinese/members/yr12-16/twct.htm",
-    "region": "建築、測量及都市規劃界",
+    "constituency": "建築、測量及都市規劃界",
     "address": "香港中區立法會道1號立法會綜合大樓802室",
     "telephone": [
       "28805622"
