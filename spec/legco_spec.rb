@@ -7,7 +7,7 @@ describe "Legco" do
       members.class.should == Array
       members.size.should > 0
 
-      [:name, :image, :url, :region, :address, :telephone, :fax, :email, :website].each do |k|
+      [:name, :image, :url, :constituency, :address, :telephone, :fax, :email, :website].each do |k|
         members[0][k].should_not be_nil
       end
     end

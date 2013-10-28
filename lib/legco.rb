@@ -18,7 +18,7 @@ module Legco
     doc.search(".bio-member-info").collect do |node|
       image = node.search("img/@src").text rescue nil
       member_node = node.search("strong a").first
-      region =node.search(".size2").text.strip[1..-3] rescue nil
+      constituency=node.search(".size2").text.strip[1..-3] rescue nil
 
       if member_node
         url = member_node.attribute("href").text
@@ -51,12 +51,12 @@ module Legco
         end
       end
 
-      if image && name && url && region
+      if image && name && url && constituency
         {
           name: name,
           image: to_absolute(base_url, image),
           url: url,
-          region: region,
+          constituency: constituency,
           address: address,
           telephone: telephone,
           fax: fax,
